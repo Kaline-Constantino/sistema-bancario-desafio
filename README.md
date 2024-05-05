@@ -1,2 +1,4 @@
-# sistema-bancario-desafio
-Projeto Desafio criando um sistema bancário com Python na plataforma DIO
+# Desafio
+## Sistema Bancário com Python!
+
+Neste projeto estou aprendendo como criar um sistema bancário utilizando Python.
